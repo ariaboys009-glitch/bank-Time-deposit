@@ -48,6 +48,8 @@ Each task will focus on a different stage of the data mining and workflow.
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* sklearn
+* imblearn
 
 ---
 
