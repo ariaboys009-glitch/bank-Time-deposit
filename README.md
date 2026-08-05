@@ -57,7 +57,7 @@ Each task will focus on a different stage of the data mining and workflow.
 
 bank UCI Dataset
 
-This dataset is widely used for educational purposes in healthcare analytics, and data mining research.
+This dataset is widely used for educational purposes in financial analytics, and data mining research.
 
 ##
 
